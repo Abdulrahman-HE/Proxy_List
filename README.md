@@ -15,7 +15,7 @@ This repository contains regularly updated proxy lists, automatically refreshed 
 - SOCKS5: 108 proxies
 
 
-**Last Updated**: 2025-12-15 10:04:54 UTC
+**Last Updated**: 2025-12-15 10:19:58 UTC
 
 
 This project is provided for educational purposes only
