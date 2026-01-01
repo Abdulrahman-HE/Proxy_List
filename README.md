@@ -12,10 +12,10 @@ This repository contains regularly updated proxy lists, automatically refreshed 
 ## Proxy Counts
 - HTTP: 2 proxies
 - SOCKS4: 1000 proxies
-- SOCKS5: 108 proxies
+- SOCKS5: 104 proxies
 
 
-**Last Updated**: 2026-01-01 07:55:36 UTC
+**Last Updated**: 2026-01-01 08:10:52 UTC
 
 
 This project is provided for educational purposes only
